@@ -6,16 +6,11 @@
 
  date    : 2023/10/09 
 
- update  :
+ update  : 2023/10/09
 ***
 ### Summary
 
 sonik + preact + D1 + cloudflare pages, CMS sample
-
-***
-### Related
-
-* https://github.com/yusukebe/sonik
 
 ***
 ### Setup
