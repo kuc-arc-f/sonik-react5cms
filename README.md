@@ -13,6 +13,10 @@
 sonik + preact + D1 + cloudflare pages, CMS sample
 
 ***
+### path
+* /admin: editor page
+
+***
 ### Setup
 * wrangler.toml
 
